@@ -1,6 +1,10 @@
 # Quick Note Extension
 ## Made using:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+## Overview
+Quick Note is a simple, easy-to-use browser extension for taking and saving notes directly in your browser. Perfect for quick reminders and jotting down ideas without leaving your current tab.
+
 ## How it works
 - Click the extension icon to open the popup.
 - Type your notes in the provided text area.
